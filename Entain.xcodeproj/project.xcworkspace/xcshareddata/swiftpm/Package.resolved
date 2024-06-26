@@ -1,0 +1,15 @@
+{
+  "originHash" : "bb2ce5dec1dfb5c5cafdebf13d63ad48875c5aab34f741969928b6914c0fcd70",
+  "pins" : [
+    {
+      "identity" : "scyther",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bstillitano/Scyther",
+      "state" : {
+        "revision" : "89ecc28ad8b3c97316a3cdee62e59e223296117c",
+        "version" : "1.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}
